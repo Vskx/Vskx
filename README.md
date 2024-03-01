@@ -1,1 +1,2 @@
 Sjemano 👌
+Discord: vskx_
