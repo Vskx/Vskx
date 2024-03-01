@@ -1,2 +1,2 @@
-Sjemano 👌
+Siemano 😎
 Discord: vskx_
