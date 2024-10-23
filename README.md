@@ -17,4 +17,4 @@ I'm a **15-year-old** front-end developer with **3 years** of experience.
 Always eager to learn and grow! 
 
 
-[![My Skills](https://skillicons.dev/icons?i=next&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,discordjs,vue,tailwind&perline=3)](https://skillicons.dev)
