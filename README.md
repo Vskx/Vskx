@@ -2,8 +2,7 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
-
+I'm a 15-year-old 🇵🇱 aspiring developer with a passion for frontend programming, specializing in creating plugins for Minecraft and developing Discord bots. Since 2020, I've been honing my skills with Next.js, which has empowered me to build dynamic and modern web applications. Programming is not just a hobby for me; it’s a true passion. In my spare time, I enjoy playing soccer and dream of joining a professional club to further cultivate my athletic pursuits.
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
