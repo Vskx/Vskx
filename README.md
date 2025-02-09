@@ -1,8 +1,8 @@
 # ⚫ Adam Kowalczyk
 
-**`Developer/Soccer Player`**
+**`Developer / Soccer Player`**
 
-# 💫 About Me
+## 💫 About Me  
 👋 I'm a **15-year-old web developer** from 🇵🇱, currently learning **DevOps**.
 
 💻 I’ve been programming since **2020** and I’m now expanding my knowledge in **advanced web development**.
@@ -13,7 +13,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -28,4 +28,6 @@
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Discord.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/>
 
-<br />
+<br clear="left" />
+
+---
