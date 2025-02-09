@@ -2,8 +2,14 @@
 
 **`Developer/Soccer Player`**
 
-I'm a 15-year-old 🇵🇱 aspiring developer with a passion for frontend programming, specializing in creating plugins for Minecraft and developing Discord bots. Since 2020, I've been honing my skills with Next.js, which has empowered me to build dynamic and modern web applications. Programming is not just a hobby for me; it’s a true passion. In my spare time, I enjoy playing soccer and dream of joining a professional club to further cultivate my athletic pursuits.
+About Me
+👋 I'm a 15-year-old web developer from 🇵🇱, currently learning DevOps.
 
+💻 I’ve been programming since 2020 and I’m now expanding my knowledge in advanced web development.
+
+⚽ In my free time, I love playing soccer and dream of joining a professional club someday.
+
+💬 Ask me about web development!
 ---
 
 ### 🧰 Languages and Tools
