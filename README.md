@@ -15,19 +15,19 @@
 
 ## 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img align="left" alt="Discord.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/>
-
-<br clear="left" />
+<p align="left">
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript" /></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
+  <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a>
+  <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a>
+  <a href="https://discord.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=discordjs" width="40" height="40" alt="Discord.js" /></a>
+</p>
 
 ---
