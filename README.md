@@ -16,11 +16,13 @@
 ## 🧰 Languages and Tools
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" height="40" alt="Java" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="GitHub" /></a>
+  <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" height="40" alt="Figma" /></a>
+  <a href="https://vercel.com" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40" height="40" alt="Vercel" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" height="40" alt="Docker" /></a>
+  <a href="https://go.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go&theme=dark" width="40" height="40" alt="Golang" /></a>
   <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="40" height="40" alt="TypeScript" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" alt="Git" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" height="40" alt="CSS" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="40" height="40" alt="JavaScript" /></a>
   <a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" alt="React" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" height="40" alt="Node.js" /></a>
