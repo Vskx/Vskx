@@ -30,6 +30,8 @@
   <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50" height="50" alt="Next.js" /></a>
   <a href="https://mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" height="50" alt="MongoDB" /></a>
   <a href="https://discord.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=discordjs&theme=dark" width="50" height="50" alt="Discord.js" /></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwindcss&theme=dark" width="50" height="50" alt="Tailwind CSS" /></a>
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://skillicons.dev/icons?i=webstorm&theme=dark" width="50" height="50" alt="WebStorm" /></a>
 </p>
 
 ---
