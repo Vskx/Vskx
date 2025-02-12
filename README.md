@@ -9,7 +9,7 @@
 
 ⚽ In my free time, I love playing **soccer** and dream of joining a **professional club** someday.
 
-💬 **Ask me about:** *Web Development*
+💬 **Ask me about:** *Web Development*.
 
 ---
 
