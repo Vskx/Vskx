@@ -3,7 +3,7 @@
 **`Developer / Soccer Player`**
 
 ## 💫 About Me  
-👋 I'm a **15-year-old web developer** from 🇵🇱, currently learning **DevOps**.
+👋 I'm a **16-year-old web developer** from 🇵🇱, currently learning **DevOps**.
 
 💻 I’ve been programming since **2020** and I’m now expanding my knowledge in **advanced web development**.
 
