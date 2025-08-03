@@ -5,7 +5,7 @@
 ## 💫 About Me  
 👋 I'm a **16-year-old web developer** from 🇵🇱, currently learning **DevOps**.
 
-💻 I’ve been programming since **2020** and I’m now expanding my knowledge in **advanced web development**.
+💻 I’ve been programming since **2019** and I’m now expanding my knowledge in **advanced web development**.
 
 ⚽ In my free time, I love playing **soccer** and dream of joining a **professional club** someday
 
